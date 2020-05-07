@@ -3,5 +3,5 @@
 .idea/tasks.xml
 .idea/libraries
 .idea/codeStyles
-/target
-/out
+build/
+.gradle/
