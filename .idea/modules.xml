@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/gRPC01.iml" filepath="$PROJECT_DIR$/gRPC01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRPC01.generated.iml" filepath="$PROJECT_DIR$/.idea/modules/gRPC01.generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRPC01.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gRPC01.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRPC01.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gRPC01.test.iml" />
     </modules>
   </component>
 </project>
