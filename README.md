@@ -1,3 +1,3 @@
 # Running the examples
 
-gRPC uses protobufs.
+gRPC01 uses protobufs.
