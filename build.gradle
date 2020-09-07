@@ -1,10 +1,17 @@
 plugins {
   id 'java'
+  id "application"
   id "com.google.protobuf" version "0.8.8"
 }
 
 repositories {
   mavenCentral()
+}
+
+apply plugin : "java"
+
+application {
+  mainClassName = 'com.company.helloworld.HelloWorldServer'
 }
 
 protobuf {
